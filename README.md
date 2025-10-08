@@ -10,7 +10,7 @@ Compile and Run:
  Visual Studio 2022 Developer Command Prompt:
  
     csc /target:winexe /reference:System.Windows.Forms.dll /reference:System.Drawing.dll CSGOBombTimer.cs
-CSGOBombTimer.exe
+
 
 
 Run the .exe file :
@@ -22,4 +22,5 @@ Run the .exe file :
 https://github.com/user-attachments/assets/4d19ed44-49fc-4eaf-9ef5-fa1be9ee4fe3
 
 
-
+----------
+Create by :Jamal-DH
